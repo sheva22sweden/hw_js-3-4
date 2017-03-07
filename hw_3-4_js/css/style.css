@@ -1,0 +1,33 @@
+.wrapper {
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+	width: 570px;
+
+}
+.title {
+	text-align: center;
+	font-weight: 100;
+	margin-bottom: 50px;
+}
+.list-unstyled {
+	list-style: none;
+}
+.text-answer {
+	font-weight: 100;
+}
+.checkbox {
+	height: 14px;
+	margin-right: 7px; 
+}
+.btn {
+	margin: 50px auto;
+	display: block;
+	background-color: #cee2f2;
+	width: 325px;
+	height: 55px;
+	border: 2px solid #000;
+	font-size: 16px;
+}
+.variant {
+	font-size: 14px;
+}
